@@ -92,3 +92,5 @@ function removeProduct(event) {
   productRow.remove();
   calculateAll(); 
 };
+
+//comment
